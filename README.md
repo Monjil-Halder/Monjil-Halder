@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Monjil-Halder
-- 👀 I’m interested in ML and CNN
+- 👀 I’m interested in ML and Computer Vision
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on any interesting projects in python programming and CNN
+- 💞️ I’m looking to collaborate on any interesting projects in python programming, ML, DL and CV
 - 📫 How to reach me ...
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: ...
